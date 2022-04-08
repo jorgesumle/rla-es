@@ -2353,6 +2353,7 @@ bulo/S
 bulto/S
 bumerán/S
 bungalow/S
+búnker/S
 buque/S
 burato/S
 burdel/S
@@ -3712,6 +3713,7 @@ consorcio/S
 constitucionalismo/S
 constituyente/S
 constructivismo
+constructo/S
 consuelo/hS
 consulado/S
 consultorio/S
@@ -3841,6 +3843,7 @@ corolario/S
 coronado/S
 coronal/S
 coronamiento/S
+coronavirus
 corondel/S
 coronel/S
 coronio/S
@@ -5732,7 +5735,7 @@ estregamiento/S
 estrelladero/S
 estrellamiento/S
 estremecimiento/S
-estreno/S
+estreno/nS
 estrenque/S
 estreñimiento/S
 estrépito/S
@@ -7468,6 +7471,7 @@ lagunar/S
 lagunazo/S
 laicismo/S
 lais		# Plural de lay
+laísmo/S
 lama/S
 lambel/S
 lambeo/S
@@ -7593,6 +7597,7 @@ légamo/S
 legendario/S
 legisperito/S
 leima/S
+leísmo/S
 lejos
 lema/S
 lemario/S
@@ -7783,6 +7788,7 @@ logo/S
 logogrifo/S
 logotipo/S
 logro/S
+loísmo/S
 lombardero/S
 lombo/fS
 lomo/SN
@@ -9914,6 +9920,7 @@ peróxido/S
 perpunte/S
 perrengue/S
 perrezno/S
+perrillo/GS
 perro/NS
 perroquete/S
 persa/S
